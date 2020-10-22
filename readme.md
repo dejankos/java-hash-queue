@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/dejankos/java-hash-queue.svg?branch=master)](https://travis-ci.com/dejankos/java-hash-queue)
+[![codecov](https://codecov.io/gh/dejankos/java-hash-queue/branch/master/graph/badge.svg)](https://codecov.io/gh/dejankos/java-hash-queue)
+
 # Java Blocking Hash Queue
 
 A hash based thread safe implementation of linked blocking queue with FIFO (first-in-first-out) order.
