@@ -59,4 +59,12 @@
             </plugin>
         </plugins>
     </build>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/dejankos/hash-queue</url>
+        </repository>
+    </distributionManagement>
 </project>
