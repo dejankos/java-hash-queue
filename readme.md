@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/dejankos/java-hash-queue.svg?branch=master)](https://travis-ci.com/dejankos/java-hash-queue)
+[![CI Status](https://github.com/dejankos/java-hash-queue/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/dejankos/java-hash-queue/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/dejankos/java-hash-queue/branch/master/graph/badge.svg)](https://codecov.io/gh/dejankos/java-hash-queue)
 
 # Java Blocking Hash Queue
